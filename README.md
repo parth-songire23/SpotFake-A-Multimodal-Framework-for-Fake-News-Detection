@@ -11,5 +11,5 @@ The image features are learned from VGG-19 pre-trained on ImageNet dataset.
 
 # Dataset:
 
-Twitter MediaEval 2016 (media eval 2016)
-Weibo (WeiboRumorSet) All the necessary libraries used in implementation is listed in 'environment.yml' file.
+1. Twitter MediaEval 2016 (media eval 2016)
+2. Weibo (WeiboRumorSet) All the necessary libraries used in implementation is listed in 'environment.yml' file.
